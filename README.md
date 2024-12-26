@@ -6,7 +6,7 @@ All the icons below are clickable links to my solutions and some notes/thoughts 
 
 | Day                                        | Language | Part 1                                     | Part 2                                     | Notes                                 |
 | -----------------------------------------: | :------: | :----------------------------------------: | :----------------------------------------: | :-----------------------------------: |
-| [01](https://adventofcode.com/2024/day/1)  |          |                                            |                                            |                                       |
+| [01](https://adventofcode.com/2024/day/1)  | R        | [:white_check_mark:](01_R/01a.r)           | [:white_check_mark:](01_R/01b.r)           | [:spiral_notepad:](#day-1---r)        |
 | [02](https://adventofcode.com/2024/day/2)  |          |                                            |                                            |                                       |
 | [03](https://adventofcode.com/2024/day/3)  |          |                                            |                                            |                                       |
 | [04](https://adventofcode.com/2024/day/4)  |          |                                            |                                            |                                       |
@@ -33,3 +33,7 @@ All the icons below are clickable links to my solutions and some notes/thoughts 
 | [25](https://adventofcode.com/2024/day/25) |          |                                            |                                            |                                       |
 
 ## Notes/Diary
+
+### Day 1 - R
+
+TODO
