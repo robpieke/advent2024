@@ -1,2 +1,35 @@
-# advent2024
-Advent of Code 2024 - each day a different programming language
+# Advent of Code 2024
+
+Here's my go at solving the puzzles from https://adventofcode.com/2024 - with the extra challenge of using a different programming language for each day.
+
+All the icons below are clickable links to my solutions and some notes/thoughts on the language used that day.
+
+| Day                                        | Language | Part 1                                     | Part 2                                     | Notes                                 |
+| -----------------------------------------: | :------: | :----------------------------------------: | :----------------------------------------: | :-----------------------------------: |
+| [01](https://adventofcode.com/2024/day/1)  |          |                                            |                                            |                                       |
+| [02](https://adventofcode.com/2024/day/2)  |          |                                            |                                            |                                       |
+| [03](https://adventofcode.com/2024/day/3)  |          |                                            |                                            |                                       |
+| [04](https://adventofcode.com/2024/day/4)  |          |                                            |                                            |                                       |
+| [05](https://adventofcode.com/2024/day/5)  |          |                                            |                                            |                                       |
+| [06](https://adventofcode.com/2024/day/6)  |          |                                            |                                            |                                       |
+| [07](https://adventofcode.com/2024/day/7)  |          |                                            |                                            |                                       |
+| [08](https://adventofcode.com/2024/day/8)  |          |                                            |                                            |                                       |
+| [09](https://adventofcode.com/2024/day/9)  |          |                                            |                                            |                                       |
+| [10](https://adventofcode.com/2024/day/10) |          |                                            |                                            |                                       |
+| [11](https://adventofcode.com/2024/day/11) |          |                                            |                                            |                                       |
+| [12](https://adventofcode.com/2024/day/12) |          |                                            |                                            |                                       |
+| [13](https://adventofcode.com/2024/day/13) |          |                                            |                                            |                                       |
+| [14](https://adventofcode.com/2024/day/14) |          |                                            |                                            |                                       |
+| [15](https://adventofcode.com/2024/day/15) |          |                                            |                                            |                                       |
+| [16](https://adventofcode.com/2024/day/16) |          |                                            |                                            |                                       |
+| [17](https://adventofcode.com/2024/day/17) |          |                                            |                                            |                                       |
+| [18](https://adventofcode.com/2024/day/18) |          |                                            |                                            |                                       |
+| [19](https://adventofcode.com/2024/day/19) |          |                                            |                                            |                                       |
+| [20](https://adventofcode.com/2024/day/20) |          |                                            |                                            |                                       |
+| [21](https://adventofcode.com/2024/day/21) |          |                                            |                                            |                                       |
+| [22](https://adventofcode.com/2024/day/22) |          |                                            |                                            |                                       |
+| [23](https://adventofcode.com/2024/day/23) |          |                                            |                                            |                                       |
+| [24](https://adventofcode.com/2024/day/24) |          |                                            |                                            |                                       |
+| [25](https://adventofcode.com/2024/day/25) |          |                                            |                                            |                                       |
+
+## Notes/Diary
