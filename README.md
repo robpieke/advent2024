@@ -10,7 +10,7 @@ All the icons below are clickable links to my solutions and some notes/thoughts 
 | [02](https://adventofcode.com/2024/day/2)  | Perl     | [:white_check_mark:](02_Perl/02a.pl)       | [:white_check_mark:](02_Perl/02b.pl)       | [:spiral_notepad:](#day-2---perl)     |
 | [03](https://adventofcode.com/2024/day/3)  | Bash     | [:white_check_mark:](03_Bash/03a.sh)       | [:white_check_mark:](03_Bash/03b.sh)       | [:spiral_notepad:](#day-3---bash)     |
 | [04](https://adventofcode.com/2024/day/4)  | Julia    | [:white_check_mark:](04_Julia/04a.jl)      | [:white_check_mark:](04_Julia/04b.jl)      | [:spiral_notepad:](#day-4---julia)    |
-| [05](https://adventofcode.com/2024/day/5)  |          |                                            |                                            |                                       |
+| [05](https://adventofcode.com/2024/day/5)  | Tcl      | [:white_check_mark:](05_Tcl/05a.tcl)       | [:white_check_mark:](05_Tcl/05b.tcl)       | [:spiral_notepad:](#day-5---tcl)      |
 | [06](https://adventofcode.com/2024/day/6)  |          |                                            |                                            |                                       |
 | [07](https://adventofcode.com/2024/day/7)  |          |                                            |                                            |                                       |
 | [08](https://adventofcode.com/2024/day/8)  |          |                                            |                                            |                                       |
@@ -47,5 +47,9 @@ TODO
 TODO
 
 ### Day 4 - Julia
+
+TODO
+
+### Day 5 - Tcl
 
 TODO
